@@ -1,0 +1,4 @@
+1. Implement the same questions given in the Assignment 1 using SARSA,  and n-step SARSA. Compare the performance of n-step SARSA as n is increased. [15]
+2. Implement the question 1 given in Assignment 1 using Q-learning. [10]
+3. Compare the performance of the algorithms given in assignment 1 and those using SARSA and Q-learning. [5]
+4. Given a grid of 1000x1000 with randomly placed obstacles occupying 10% of the grid. In this environment, start and goal locations are randomly placed. The objective is to find an optimal policy using any of the methods studied in the class so far. Justify why you are selecting a particular algorithm, implement it and show the results. [50]
